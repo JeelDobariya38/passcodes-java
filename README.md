@@ -4,6 +4,8 @@ It is a basic a password manager application. It specially designed for storing 
 your password are stored on disk instead of a some sort of third party server. This help you in keep your password secure and safe.
 Of course, till your laptop is in same hands.
 
+**Project Require**: Java 21+, Maven 3.9.8+
+
 ## Inspiration (Special Thanks)
 
 Project is inspire by the similar concept of [Smart Manager](https://github.com/JeelDobariya38/Smart-Manager). 
