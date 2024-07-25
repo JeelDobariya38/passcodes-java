@@ -12,3 +12,19 @@ Project is inspire by the similar concept of [Smart Manager](https://github.com/
 Which fails to make a well design password managing app.
 Due, to poor design desision made. So, It's another inicative that tries to make password managing app. 
 But, along the way avoid the poor design desison made in Smart Manager Project.
+
+## Installing & Running Project
+
+1. Go to [Github Release Page]() and Download the "passcodes-java-[version].zip" assest.
+
+2. Unzip the files. 
+
+3. Open terminal and navigate to the PassCodes Folder. (the one, you have extracted).
+
+4. Run the jar file.
+
+```bash
+java -jar ./app-[version].jar
+```
+
+**Note**: Please be sure, To replace the version. Before, Run the above command.
