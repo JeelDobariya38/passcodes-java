@@ -4,9 +4,9 @@
 
 2. Unzip the files.
 
-3. Ensure that your unzip folder roughly follow the directory structure below given.
-
 > [!TIP]
+> Ensure that your unzip folder roughly follow the directory structure below given. (optional)
+>
 > ```
 >   Passcodes/ (unzip folder root)
 >   |---- bin/ (contains other executable files).
@@ -19,9 +19,9 @@
 >   |---- .......
 > ```
 
-4. Open terminal and navigate to the PassCodes Folder. (the one, you have extracted).
+3. Open terminal and navigate to the PassCodes Folder. (the one, you have extracted).
 
-5. Run the jar file.
+4. Run the jar file.
 
 ```bash
 java -jar ./app-[version].jar
@@ -30,11 +30,11 @@ java -jar ./app-[version].jar
 > [!IMPORTANT] 
 > Replace `[version]` with the actual version number before running the above command.
 
-6. Use the app.
+5. Use the app.
 
-7. Refer our Docs if needed.
+6. Refer our Docs if needed.
 
-8. Reach out to us, For any issue, Using [github issues](https://github.com/JeelDobariya38/PassCodes/issues).
+7. Reach out to us, For any issue, Using [github issues](https://github.com/JeelDobariya38/PassCodes/issues).
 
 ## Updating App
 
