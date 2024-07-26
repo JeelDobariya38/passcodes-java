@@ -9,6 +9,39 @@ public class App {
     public static final String BLUE = "\033[0;34m";    // BLUE
     
     public static void main(String[] args) {
+        if (args.length > 0) {
+            // Setting Color Theme (GREEN)
+            System.out.print(GREEN);
+            
+            if (args[0].startsWith("--quit") || args[0].startsWith("--exit")) {
+                System.out.println("Exit with 0!!!");
+                System.out.print(RESET);
+                System.exit(0);
+            }
+            
+            else if (args[0].startsWith("--help")) {
+                System.out.println("Passcodes v0.0.0");
+                System.out.println();
+                
+                System.out.println("help, will be avaliable soon!!!");
+            }
+            
+            else if (args[0].startsWith("--version")) {
+                System.out.println("Passcodes v0.0.0");
+                System.out.println();
+                
+                System.out.println("Github: https://github.com/JeelDobariya38/PassCodes");
+            }
+            
+            else {
+                System.out.println(RED + "Invalid Arg: " + args[0] + RESET);
+            }
+            
+            // Reset Color Theme
+            System.out.print(RESET);
+            
+            return;
+        }
         
         Scanner sc = new Scanner(System.in);
         
