@@ -30,7 +30,7 @@ public class App {
                 System.out.println("Passcodes v0.0.0");
                 System.out.println();
                 
-                System.out.println("Github: https://github.com/JeelDobariya38/PassCodes");
+                System.out.println("GITHUB: " + BLUE + "https://github.com/JeelDobariya38/PassCodes" + RESET);
             }
             
             else {
