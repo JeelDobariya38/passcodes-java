@@ -4,20 +4,21 @@
 
 2. Unzip the files.
 
-3. Ensure that below given directory structure
+3. Ensure that your unzip folder roughly follow the directory structure below given.
 
 > [!TIP]
 > ```
-    Passcodes/
-    |-- bin/ (contains other executable files).
-    |-- data/ (contains data files).
-    |-- scripts/ (contains scripts).
-    |-- app-[version].jar
-    |-- Licence.txt
-    |-- Readme.md
-    |-- ....... (other_file)
-    |-- .......
-  ```
+>   Passcodes/ (unzip folder root)
+>   |---- bin/ (contains other executable files).
+>   |---- data/ (contains data files).
+>   |---- scripts/ (contains scripts).
+>   |---- app-[version].jar
+>   |---- Licence.txt
+>   |---- Readme.md
+>   |---- ....... (other files/folders)
+>   |---- .......
+> ```
+
 4. Open terminal and navigate to the PassCodes Folder. (the one, you have extracted).
 
 5. Run the jar file.
