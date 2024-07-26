@@ -42,8 +42,8 @@ jobs:
         mvn package
     
     - name: Upload JAR as Artifact
-       uses: actions/upload-artifact@v3
-       with:
+      uses: actions/upload-artifact@v4
+      with:
         name: my-application-artifact
         path: dist/*.jar
         retention-days: 1

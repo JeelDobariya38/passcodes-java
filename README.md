@@ -1,6 +1,9 @@
 # PassCodes
 
-> **Note:** This software is in its alpha stage of development. **Bugs are expected**.
+[![.github/workflows/release.yml](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml/badge.svg)](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml)
+
+> [!WARNING]
+> This software is in its alpha stage of development. **Bugs are expected**.
 
 PassCodes is a basic password manager application designed for local storage of your passwords.
 Your passwords are stored on your local machine rather than a third-party server, 
@@ -31,7 +34,8 @@ PassCodes aims to create a better password manager while avoiding the mistakes m
     java -jar ./app-[version].jar
     ```
 
-    **Note:** Replace `[version]` with the actual version number before running the above command.
+    > [!IMPORTANT] 
+    > Replace `[version]` with the actual version number before running the above command.
 
 5. Use the app.
 6. Refer to our documentation if needed.
