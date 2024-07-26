@@ -12,7 +12,8 @@
 java -jar ./app-[version].jar
 ```
 
-**Note**: Please be sure, To replace the version. Before, Run the above command.
+> [!IMPORTANT] 
+> Replace `[version]` with the actual version number before running the above command.
 
 5. Use the app.
 
