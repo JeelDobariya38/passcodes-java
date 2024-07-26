@@ -1,5 +1,7 @@
 # PassCodes
 
+[![.github/workflows/release.yml](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml/badge.svg)](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml)
+
 > [!WARNING]
 > This software is in its alpha stage of development. **Bugs are expected**.
 
