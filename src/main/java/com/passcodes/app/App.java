@@ -26,7 +26,7 @@ public class App {
                 System.out.println("help, will be avaliable soon!!!");
             }
             
-            else if (args[0].startsWith("--version")) {
+            else if (args[0].startsWith("--version") || args[0].startsWith("--v")) {
                 System.out.println("Passcodes v0.0.0");
                 System.out.println();
                 
