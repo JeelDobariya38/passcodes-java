@@ -34,8 +34,8 @@ PassCodes aims to create a better password manager while avoiding the mistakes m
     java -jar ./app-[version].jar
     ```
 
-> > [!IMPORTANT]
-> > Replace `[version]` with the actual version number before running the above command.
+> [!IMPORTANT] 
+> Replace `[version]` with the actual version number before running the above command.
 
 5. Use the app.
 6. Refer to our documentation if needed.
