@@ -5,7 +5,7 @@
 2. Unzip the files.
 
 > [!TIP]
-> Ensure that your unzip folder roughly follow the directory structure below given. (optional)
+> Ensure that your unzip folder roughly follow the directory structure given below. (optional)
 >
 > ```
 >   Passcodes/ (unzip folder root)
