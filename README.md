@@ -32,6 +32,14 @@ java -jar ./app-[version].jar
 
 **Note**: Please be sure, To replace the version. Before, Run the above command.
 
+5. Use the app.
+
+6. Refer our Docs if needed.
+
+7. Reach out to us, For any issue, Using [github issues](https://github.com/JeelDobariya38/PassCodes/issues).
+
+For more info, On installing & updating of passcodes app. You can read **docs/installing_guide.md** on our github repository.
+
 ## License
 
 Please, Be sure about the fact that software is license under **MIT**. The project is just a very small.
