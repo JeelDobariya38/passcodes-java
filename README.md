@@ -1,46 +1,47 @@
 # PassCodes
 
-> Currently software is in its alpha stage of development. **Bugs are expected**.
+> **Note:** This software is in its alpha stage of development. **Bugs are expected**.
 
-It is a basic a password manager application. It specially designed for storing your in your local-machine.
-your password are stored on disk instead of a some sort of third party server. This help you in keep your password secure and safe.
-Of course, till your laptop is in same hands.
+PassCodes is a basic password manager application designed for local storage of your passwords.
+Your passwords are stored on your local machine rather than a third-party server, 
+ensuring that your passwords remain secure as long as your laptop is in safe hands.
 
-**Project Require**: Java 21+, Maven 3.9.8+.
-**Target Base**: User (Basic Knowledge of Programming).
+**Official Project Requirements:** Java 21+, Maven 3.9.8+  
+**Official Target Base:** Users with basic knowledge of programming  
+**Official Target Platform:** Windows 10+
+
+Our official specifications are a bit high, 
+but you can still run the app with some adjustments on many platforms using older versions of Java 
+and even with zero knowledge of programming.
 
 ## Inspiration (Special Thanks)
 
-Project is inspire by the similar concept of [Smart Manager](https://github.com/JeelDobariya38/Smart-Manager). 
-Which fails to make a well design password managing app.
-Due, to poor design desision made. So, It's another inicative that tries to make password managing app. 
-But, along the way avoid the poor design desison made in Smart Manager Project.
+This project is inspired by the concept of [Smart Manager](https://github.com/JeelDobariya38/Smart-Manager),
+which failed to deliver a well-designed password managing app due to poor design decisions. 
+PassCodes aims to create a better password manager while avoiding the mistakes made in the Smart Manager project.
 
-## Installing & Running Project
+## Installing & Running the Project
 
-1. Go to [Github Release Page](https://github.com/JeelDobariya38/PassCodes/releases) and Download the "passcodes-java-[version].zip" assest.
-
+1. Go to the [GitHub Release Page](https://github.com/JeelDobariya38/PassCodes/releases) and download the "passcodes-java-[version].zip" asset.
 2. Unzip the files.
+3. Open a terminal and navigate to the PassCodes folder (the one you have extracted/unzipped).
+4. Run the JAR file:
 
-3. Open terminal and navigate to the PassCodes Folder. (the one, you have extracted).
+    ```bash
+    java -jar ./app-[version].jar
+    ```
 
-4. Run the jar file.
-
-```bash
-java -jar ./app-[version].jar
-```
-
-**Note**: Please be sure, To replace the version. Before, Run the above command.
+    **Note:** Replace `[version]` with the actual version number before running the above command.
 
 5. Use the app.
+6. Refer to our documentation if needed.
+7. Reach out to us for any issues using [GitHub Issues](https://github.com/JeelDobariya38/PassCodes/issues).
 
-6. Refer our Docs if needed.
-
-7. Reach out to us, For any issue, Using [github issues](https://github.com/JeelDobariya38/PassCodes/issues).
-
-For more info, On installing & updating of passcodes app. You can read **docs/installing_guide.md** on our github repository.
+For more information on installing and updating the PassCodes app, 
+you can read **docs/installing_guide.md** on our GitHub repository.
 
 ## License
 
-Please, Be sure about the fact that software is license under **MIT**. The project is just a very small.
-So, Think twice before sharing any real infomation with software. In short, Trust the software on your risk.
+Please note that this software is licensed under the **MIT License**. 
+The project is very small, so think twice before sharing any real information with the software. 
+In short, trust the software at your own risk.

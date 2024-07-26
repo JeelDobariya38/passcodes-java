@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Well Mannered Project Structure.
-- Hello World App (basically, make app runable).
-- CI/CD Github Action.
+- Design Well Mannered Project Structure.
+- Make Basic Command Line App.
+- Add Tests.
+- Make A Basic Documentation.
+- Add CI/CD Github Action Pipeline.
