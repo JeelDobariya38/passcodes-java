@@ -38,4 +38,9 @@ java -jar ./app-[version].jar
 
 ## Updating App
 
-**Coming Soon**
+> [!IMPORTANT]
+> As Software is in Alpha Stage of Development of updating software, 
+> from one version to another might cause data incompatibility & data lost.
+
+
+Update-Guide: **Coming Soon**
