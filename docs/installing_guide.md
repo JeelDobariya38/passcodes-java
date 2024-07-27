@@ -1,14 +1,13 @@
 ## Installing & Running Passcodes
 
-1. Go to [Github Release Page](https://github.com/JeelDobariya38/PassCodes/releases)  
-   & Download the "passcodes-java-[version].zip" assest.
+1. Go to [Github Release Page](https://github.com/JeelDobariya38/PassCodes/releases)  & Download the "passcodes-java-[version].zip" assest.
 2. Unzip the files.
 
 > [!TIP]
-> Ensure that your unzip folder roughly follow the directory structure given below. (optional)
+> Ensure that your unzip folder. Roughly, Follow the directory structure given below. (optional step)
 >
 > ```
->   Passcodes/ (unzip folder root)
+>   Passcodes/ (unzip folder's root)
 >   |---- bin/ (contains other executable files).
 >   |---- data/ (contains data files).
 >   |---- scripts/ (contains scripts).
@@ -36,7 +35,7 @@
 ## Updating App
 
 > [!IMPORTANT]
-> As Software is in Alpha Stage of Development of updating software, 
-> from one version to another might cause data incompatibility & data lost.
+> As software is in its alpha stage of development. So, Updating software, 
+> From one version to another might cause data incompatibility & data lost.
 
 Update-Guide: **Coming Soon**
