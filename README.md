@@ -18,6 +18,15 @@ Our official specifications are a bit high,
 but you can still run the app with some adjustments on many platforms using older versions of Java 
 and even with zero knowledge of programming.
 
+## Features
+- [ ] Password Storage Handling (user account specfic).
+- [ ] Initiative Graphical User Interface.
+- [x] Productive CommandLine Interface Interface (cli utility).
+- [ ] Password Import/Export Functionality
+- [ ] Password Generator.
+- [ ] Basic Security (encryption).
+- [ ] Customization & Extensibility.
+
 ## Inspiration (Special Thanks)
 
 This project is inspired by the concept of [Smart Manager](https://github.com/JeelDobariya38/Smart-Manager),
