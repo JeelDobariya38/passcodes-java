@@ -4,7 +4,7 @@
 
 > [!WARNING]
 > This software is in its alpha stage of development. So, **Bugs Are Expected**.
-> Also, Changes you made in software (especially, data) might **not Backward Compatible & Forward Compatible**.
+> Also, Changes you made in software (especially, data) might **Not Forward & Backward Compatible**.
 
 PassCodes is a basic password manager application designed for local storage of your passwords.
 Your passwords are stored on your local machine rather than a third-party server, 
