@@ -1,9 +1,10 @@
 # PassCodes
 
-[![.github/workflows/release.yml](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml/badge.svg)](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml)
+[![Release (CI/CD)](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml/badge.svg?event=release)](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml)
 
 > [!WARNING]
-> This software is in its alpha stage of development. **Bugs are expected**.
+> This software is in its alpha stage of development. So, **Bugs Are Expected**.
+> Also, Changes you made in software (especially, data) might **Not Forward & Backward Compatible**.
 
 PassCodes is a basic password manager application designed for local storage of your passwords.
 Your passwords are stored on your local machine rather than a third-party server, 
@@ -16,6 +17,15 @@ ensuring that your passwords remain secure as long as your laptop is in safe han
 Our official specifications are a bit high, 
 but you can still run the app with some adjustments on many platforms using older versions of Java 
 and even with zero knowledge of programming.
+
+## Features
+- [ ] Password Storage Handling (user account specfic).
+- [ ] Initiative Graphical User Interface.
+- [x] Productive CommandLine Interface Interface (cli utility).
+- [ ] Password Import/Export Functionality
+- [ ] Password Generator.
+- [ ] Basic Security (encryption).
+- [ ] Customization & Extensibility.
 
 ## Inspiration (Special Thanks)
 
