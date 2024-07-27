@@ -1,10 +1,10 @@
 # PassCodes
 
-[![Release (CI/CD)](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml/badge.svg)](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml)
+[![Release (CI/CD)](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml/badge.svg?event=release)](https://github.com/JeelDobariya38/PassCodes/actions/workflows/release.yml)
 
 > [!WARNING]
-> This software is in its alpha stage of development. **Bugs are expected**.
-> & Changes you made with data might **not backward compatible**.
+> This software is in its alpha stage of development. So, **Bugs Are Expected**.
+> Also, Changes you made in software (especially, data) might **not Backward Compatible & Forward Compatible**.
 
 PassCodes is a basic password manager application designed for local storage of your passwords.
 Your passwords are stored on your local machine rather than a third-party server, 
